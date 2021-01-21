@@ -8,6 +8,8 @@ namespace salaries
         {
             Money money = new Money();
             money.GetExp();
+
+            
         }
     }
 }
