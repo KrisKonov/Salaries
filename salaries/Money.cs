@@ -46,15 +46,17 @@ namespace salaries
                 
                 Console.WriteLine(Salary - ddfl);
                 Salary = Salary + Salary * Bonus / 100;
-
+          
             }
 
-        
-
-         
+            Console.WriteLine("Total: {0}", (Salary - ddfl) * Experience);
 
 
-            
+
+
+
+
+
         }
 
 
